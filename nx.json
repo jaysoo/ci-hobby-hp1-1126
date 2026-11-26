@@ -62,5 +62,7 @@
       "dependsOn": ["^build"]
     }
   },
-  "analytics": false
+  "analytics": false,
+  "nxCloudId": "6b0842ee5b91569ea51aca6a",
+  "nxCloudUrl": "https://staging.nx.app"
 }
